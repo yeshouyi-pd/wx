@@ -1,4 +1,4 @@
-package com.pd.wx;
+package com.pd.wx.eureka;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
