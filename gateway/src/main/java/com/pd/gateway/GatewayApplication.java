@@ -1,4 +1,4 @@
-package com.pd.wx.gateway;
+package com.pd.gateway;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
